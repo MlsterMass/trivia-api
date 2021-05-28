@@ -245,8 +245,4 @@ The API returns 4 types of errors:
   "success": true
 }
 
-```
-## Author and Acknowledgement
-- Oleksii Iovytsia contributed to API(```__init.py__```), test file(```test_flaskr.py```) and this ReadMe file. 
-- The project and other files are credicted to [Udacity](https://www.udacity.com/)
-# trivia-api
+
